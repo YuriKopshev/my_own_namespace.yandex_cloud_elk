@@ -23,19 +23,19 @@
 ```
 
  ## Скриншот шага №4
-![скриншот](https://github.com/YuriKopshev/vector-role/blob/main/img/molecule_create.png);
+![скриншот](https://github.com/YuriKopshev/my_own_namespace.yandex_cloud_elk/blob/main/img/step4.png);
 
 
  ## Скриншот шага №6
-![скриншот](https://github.com/YuriKopshev/vector-role/blob/main/img/molecule_create.png);
+![скриншот](https://github.com/YuriKopshev/my_own_namespace.yandex_cloud_elk/blob/main/img/step6.png);
 
 
  ## Скриншот шага №15
-![скриншот](https://github.com/YuriKopshev/vector-role/blob/main/img/molecule_create.png);
+![скриншот](https://github.com/YuriKopshev/my_own_namespace.yandex_cloud_elk/blob/main/img/step15.png);
 
 
  ## Скриншот шага №16
-![скриншот](https://github.com/YuriKopshev/vector-role/blob/main/img/molecule_create.png);
+![скриншот](https://github.com/YuriKopshev/my_own_namespace.yandex_cloud_elk/blob/main/img/step16.png);
 
 
 
