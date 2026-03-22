@@ -1,0 +1,6 @@
+---
+- name: Use my_own_file module
+  my_own_namespace.yandex_cloud_elk.my_own_file:
+    path: "{{ my_own_role_path }}"
+    content: "{{ my_own_role_content }}"
+    backup: "{{ my_own_role_backup }}"

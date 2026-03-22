@@ -1,0 +1,11 @@
+---
+- name: Use my_own_module (single task playbook)
+  hosts: localhost
+  connection: local
+
+  tasks:
+    - name: Create file with my_own_module
+      my_own_module:
+        path: /tmp/my_custom.txt
+        content: "This file was created by my_own_module from single task playbook"
+        backup: yes

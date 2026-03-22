@@ -1,0 +1,4 @@
+---
+my_own_role_path: /tmp/my_role_file.txt
+my_own_role_content: "This file was created by my_own_role"
+my_own_role_backup: true
