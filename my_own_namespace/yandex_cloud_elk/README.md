@@ -20,4 +20,23 @@
     path: /tmp/my_file.txt
     content: hello world
     backup: yes
+```
+
+ ## Скриншот шага №4
+![скриншот](https://github.com/YuriKopshev/vector-role/blob/main/img/molecule_create.png);
+
+
+ ## Скриншот шага №6
+![скриншот](https://github.com/YuriKopshev/vector-role/blob/main/img/molecule_create.png);
+
+
+ ## Скриншот шага №15
+![скриншот](https://github.com/YuriKopshev/vector-role/blob/main/img/molecule_create.png);
+
+
+ ## Скриншот шага №16
+![скриншот](https://github.com/YuriKopshev/vector-role/blob/main/img/molecule_create.png);
+
+
+
 
